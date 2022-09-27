@@ -21,9 +21,14 @@ docxtpl - To load the word templates to be filled automatically. DocxTemplate is
 ## Stages
 
 1)Import the Libraries.
+
 2)Define the paths for all the template files and Excel data.
+
 3)Load the workbook and all the template files.
+
 4)Make a dictonary where the keys are field names drawn from the excel worksheet.
+
 5)Use while loop for iteration.
+
 6)Make new folders and place the completed files in them.
 
