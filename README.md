@@ -16,7 +16,8 @@ Libraries used os,openpyxl,docx and docxtp.
 
 os- Used for changing the current working directory path and also for making folders in the end.
 openpyxl- Used for getting the data from the excel data source. Load_workbook is the package used to get the excel data.
-docxtpl - To load the word templates to be filled automatically. DocxTemplate is the package used for loading the templates.
+docxtpl - To load the word templates to be filled automatically. 
+DocxTemplate is the package used for loading the templates.
 
 ## Stages
 
